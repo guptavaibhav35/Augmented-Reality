@@ -12,7 +12,7 @@ To create an AR book cover that leverages AR technology to make book covers inte
 
 1. **Download the Code:** After downloading the code folder to your computer, use Unity to import this as a project.
 2. **Import and Play:** Once imported, open the project and click on the play button at the top.
-3. **Interact with Markers:** Use the marker images found in the images folder to interact with the code. For the front cover, you'll see the title, author, and a 3D model displayed. For the back cover, the title, pages, author, and a toggle button (in the shape of a cube) will be shown. Clicking the button toggles between showing all text and just the book's summary.
+3. **Interact with Markers:** Use the marker images found in the repo to interact with the code. For the front cover, you'll see the title, author, and a 3D model displayed. For the back cover, the title, pages, author, and a toggle button (in the shape of a cube) will be shown. Clicking the button toggles between showing all text and just the book's summary.
 
 ## Limitations
 
