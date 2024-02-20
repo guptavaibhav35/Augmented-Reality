@@ -22,12 +22,6 @@ No limitations were found during the development of this project.
 
 Watch the AR book cover in action [here](https://www.youtube.com/watch?v=0x6mYQFQUl4).
 
-## Submission Guidelines
-
-- Submit via GitHub by February 22, 2024.
-- Include all files, code, images, and a demonstration video.
-- Provide a detailed project brief.
-
 ## Installation
 
 ```bash
